@@ -1,0 +1,8 @@
+Ref 1:https://docs.microsoft.com/en-us/powershell/azure/install-azurerm-ps?view=azurermps-6.9.0
+
+Ref 2: https://sid-500.com/2017/11/23/microsoft-azure-connect-to-your-azure-vm-with-powershell-azurerm/
+
+
+---------Use ARM VM-----------
+
+https://www.itprotoday.com/microsoft-azure/create-new-vm-using-azurerm-cmdlets
