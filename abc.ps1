@@ -1,5 +1,5 @@
 $loc = 'South India'
-$AzureImage = Get-AzureRmVMImage -Location 'South India' -PublisherName 'MicrosoftWindowsServer' -Offer "WindowsServer" -Skus "2012-R2-Datacenter-smalldisk"
+$AzureImage = Get-AzureRmVMImage -Location $loc -PublisherName 'MicrosoftWindowsServer' -Offer "WindowsServer" -Skus "2012-R2-Datacenter-smalldisk"
 #Create a VM
 $rgname = 'RG-SCUSA'
 $vmsize = 'Standard_A2';
